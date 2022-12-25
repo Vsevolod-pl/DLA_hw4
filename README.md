@@ -11,4 +11,5 @@
 run `pip install -r requirements.txt` 
 
 ## Training and Inference
-Внутри тетрадки или `train.py` и `inference.py` соответственно.
+Внутри тетрадки или `train.py` и `inference.py` соответственно. 
+- Для запуска обучения надо создать папку `weights/run` куда будут складываться чекпоинты
